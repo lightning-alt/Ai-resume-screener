@@ -1,0 +1,47 @@
+Senior Backend Engineer
+
+Company: CloudScale Technologies
+Location: Remote (US-based)
+Employment Type: Full-time
+
+About the Role
+We are seeking a Senior Backend Engineer to join our growing platform team. You will be responsible for designing, building, and scaling the distributed systems that power our real-time analytics platform. This role requires deep expertise in Python, cloud infrastructure, and microservices architecture.
+
+What You'll Do
+- Design and develop high-performance backend services using Python, FastAPI, and Django.
+- Build and maintain scalable microservices deployed on AWS using Docker and Kubernetes.
+- Optimize database performance with PostgreSQL and Redis, ensuring low-latency data access.
+- Architect and manage CI/CD pipelines using GitHub Actions and Terraform.
+- Collaborate with cross-functional teams in an Agile environment to deliver high-quality software.
+- Mentor junior engineers and lead technical design discussions.
+- Build data pipelines with Apache Spark and Apache Airflow for real-time analytics.
+
+Required Qualifications
+- 5+ years of professional experience in backend software engineering.
+- Strong proficiency in Python and at least one other language (Go, Java, or Rust preferred).
+- Experience building REST APIs and microservices at scale.
+- Hands-on experience with AWS, Docker, and Kubernetes.
+- Deep knowledge of SQL and NoSQL databases (PostgreSQL, MongoDB, Redis).
+- Experience with CI/CD pipelines and infrastructure-as-code (Terraform).
+- Strong understanding of distributed systems and system design.
+- Excellent communication and collaboration skills.
+
+Preferred Qualifications
+- Experience with Apache Kafka and event-driven architectures.
+- Familiarity with machine learning model deployment and MLOps.
+- Knowledge of GraphQL and gRPC.
+- Experience with monitoring tools like Prometheus and Grafana.
+- AWS or Kubernetes certification.
+- Experience with test-driven development and automated testing.
+
+Nice to Have
+- Experience with React or Vue.js for full-stack contributions.
+- Knowledge of Snowflake or BigQuery for data warehousing.
+- Contributions to open-source projects.
+
+Benefits
+- Competitive salary ($160,000 — $200,000)
+- Remote-first culture
+- Health, dental, and vision insurance
+- 401(k) with company match
+- Professional development budget

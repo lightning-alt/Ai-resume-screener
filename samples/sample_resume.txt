@@ -1,0 +1,44 @@
+Jane Doe
+San Francisco, CA 94105
+jane.doe@email.com | (555) 123-4567
+linkedin.com/in/janedoe | github.com/janedoe
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 7 years of experience designing and building scalable distributed systems. Passionate about clean code, test-driven development, and mentoring junior engineers. Proven track record of reducing latency by 40% and handling 10x traffic growth through microservices architecture.
+
+EXPERIENCE
+
+Senior Software Engineer — TechCorp, San Francisco, CA
+March 2021 — Present
+- Architected and deployed a microservices platform using Python, FastAPI, and Docker, serving 5 million requests per day with 99.9% uptime.
+- Reduced API latency by 40% by optimizing PostgreSQL queries and introducing Redis caching.
+- Led a team of 6 engineers, implementing Agile and Scrum practices that improved sprint velocity by 25%.
+- Built a CI/CD pipeline with GitHub Actions and Kubernetes, cutting deployment time from 45 minutes to 8 minutes.
+- Migrated a monolithic application to a service-oriented architecture, improving scalability and reducing infrastructure costs by 30%.
+
+Software Engineer — DataStream Inc., San Jose, CA
+June 2018 — February 2021
+- Developed REST APIs using Django and Flask, supporting 50+ internal applications.
+- Designed and maintained ETL pipelines with Apache Airflow and Apache Spark, processing 2 TB of data daily.
+- Implemented automated testing with pytest, increasing test coverage from 45% to 85%.
+- Collaborated cross-functionally with product and design teams to deliver 12 features on time.
+
+EDUCATION
+B.S. in Computer Science — University of California, Berkeley
+2014 — 2018
+
+SKILLS
+Languages: Python, JavaScript, TypeScript, SQL, Go
+Frameworks: Django, Flask, FastAPI, React, Express.js
+Databases: PostgreSQL, MongoDB, Redis, Elasticsearch
+Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, GitHub Actions, CI/CD
+Data: Apache Spark, Airflow, Pandas, NumPy
+Tools: Git, Jira, Linux, Nginx
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect — Associate (2022)
+- Certified Kubernetes Administrator (2021)
+
+PROJECTS
+Real-time Chat Application — Built a WebSocket-based chat system using Node.js and Redis, supporting 10,000 concurrent connections.
+ML Price Predictor — Developed a machine learning model using scikit-learn and TensorFlow to predict housing prices with 92% accuracy.
